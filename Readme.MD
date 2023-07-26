@@ -1,6 +1,6 @@
 # Websites Parser
 
-- At the moment, the news from the home page GWP.ge is parsing and translates into Russian.
+- At the moment, the news from the home page https://www.gwp.ge/ka/gadaudebeli is parsing and translates into Russian.
 
 you need following software ( Windows only ):
  - https://gitforwindows.org/
