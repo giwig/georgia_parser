@@ -7,3 +7,16 @@ you need following software ( Windows only ):
  - https://www.python.org/downloads/
 
 
+How to use:
+1. Open `git bash`
+2. copy & paste command `git clone https://github.com/giwig/georgia_parser.git`
+3. enter command `cd georgia_parser/`
+4. `./install.sh`
+5. `./run.sh`
+
+
+
+
+
+
+
