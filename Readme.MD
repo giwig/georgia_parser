@@ -15,13 +15,5 @@ How to use:
 5. `./run.sh`
 
 
-[![](https://github.com/giwig/georgia_parser/blob/master/docs/example_1.mp4)](https://github.com/giwig/georgia_parser/blob/master/docs/example_1.mp4)
-
-<video width="320" height="240" controls>
-  <source src="https://github.com/giwig/georgia_parser/blob/master/docs/example_1.mp4" type="video/mp4">
-</video>
-
-
-
-
+[![Watch the video](https://img.youtube.com/vi/uhul9YUEAf4/hqdefault.jpg)](https://www.youtube.com/embed/uhul9YUEAf4)
 
